@@ -13,6 +13,7 @@ var numEscrito = new Dictionary<string, int>()
     { "four", 4 },
     { "five", 5 },
     { "six", 6 },
+    { "seven", 7},
     { "eight", 8 },
     { "nine", 9 },
 };
@@ -24,7 +25,8 @@ for (int i = 1; i < 10; i++)
 long total = 0;
 string[] codigos = senhas.Split("\n");
 
-foreach (string linha in codigos)
+
+foreach(string linha in codigos)
 {
     var primeiroIndice = linha.Length;
     var ultimoIndice = -1;
@@ -49,15 +51,13 @@ foreach (string linha in codigos)
 
          if (indice < ultimoIndice)
         {
-            primeiroIndice = indice;
-            primeiroValor = numero.Value;
+            ultimoIndice = indice;
+            ultimoValor = numero.Value;
         }
+        var numCompleto = primeiroValor * 10 + ultimoValor;
+        total += numCompleto;
+}
     }
 
-    int primeiroNum = linha.First(linha => char.IsDigit(linha)) - '0';
-    int ultimoNum = linha.Last(linha => char.IsDigit(linha)) - '0';
-
-    var numCompleto = primeiroValor * 10 + ultimoValor;
-    total += numCompleto;
-}
+    
 Console.WriteLine(total);
