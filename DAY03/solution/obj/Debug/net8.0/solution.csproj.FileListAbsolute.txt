@@ -1,0 +1,15 @@
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\bin\Debug\net8.0\solution.exe
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\bin\Debug\net8.0\solution.deps.json
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\bin\Debug\net8.0\solution.runtimeconfig.json
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\bin\Debug\net8.0\solution.dll
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\bin\Debug\net8.0\solution.pdb
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.AssemblyInfoInputs.cache
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.AssemblyInfo.cs
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.csproj.CoreCompileInputs.cache
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.sourcelink.json
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.dll
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\refint\solution.dll
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.pdb
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\solution.genruntimeconfig.cache
+C:\Users\Dezz\Documents\GitHub\AdventOfCode\DAY03\solution\obj\Debug\net8.0\ref\solution.dll
