@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY03\\solution\\solution.csproj",
+      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\SolutionsAll\\solution.csproj",
       "projectName": "solution",
-      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY03\\solution\\solution.csproj",
+      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\SolutionsAll\\solution.csproj",
       "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY03\\solution\\obj\\",
+      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\SolutionsAll\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
