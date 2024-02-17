@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dezz\\.nuget\\packages\\": {}
+    "C:\\Users\\carlo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY01_AdventOfCode23\\solution\\solution.csproj",
+      "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Documentos\\GitHub\\AdventOfCode2023\\DAY01_AdventOfCode23\\solution\\solution.csproj",
       "projectName": "solution",
-      "projectPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY01_AdventOfCode23\\solution\\solution.csproj",
-      "packagesPath": "C:\\Users\\Dezz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dezz\\Documents\\GitHub\\AdventOfCode\\DAY01_AdventOfCode23\\solution\\obj\\",
+      "projectPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\GitHub\\AdventOfCode2023\\DAY01_AdventOfCode23\\solution\\solution.csproj",
+      "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\carlo\\OneDrive\\Documentos\\GitHub\\AdventOfCode2023\\DAY01_AdventOfCode23\\solution\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dezz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
